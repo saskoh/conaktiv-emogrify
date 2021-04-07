@@ -1,17 +1,16 @@
 {
-    "name": "bummzack/silverstripe-emogrify",
+    "name": "saskoh/conaktiv-emogrify",
     "description": "Integrate Emogrifier plugin into SilverStripe.",
     "type" : "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
     "keywords": [
         "silverstripe",
-        "swiftmailer",
         "emogrifier"
     ],
     "require": {
         "silverstripe/framework": "^4.1",
         "silverstripe/assets": "^1.1",
-        "bummzack/swiftmailer-emogrifyplugin" : "^0.2"
+        "saskoh/conaktiv-emogrifyplugin" : "^0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
@@ -20,12 +19,6 @@
     "extra": {
         "branch-alias": {
             "dev-master": "0.x-dev"
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "Bummzack\\SilverStripeEmogrify\\": "src/",
-            "Bummzack\\SilverStripeEmogrify\\Tests\\": "tests/"
         }
     },
     "scripts": {

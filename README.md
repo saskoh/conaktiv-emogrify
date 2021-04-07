@@ -14,7 +14,7 @@ Easily integrate Emogrifier into SilverStripe and send Emails with inlined CSS a
 
 Install via composer:
 
-    composer require bummzack/silverstripe-emogrify
+    composer require saskoh/conaktiv-emogrify
     
 ## Usage
 
