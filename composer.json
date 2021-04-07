@@ -10,7 +10,7 @@
     "require": {
         "silverstripe/framework": "^4.1",
         "silverstripe/assets": "^1.1",
-        "saskoh/conaktiv-emogrifyplugin" : "^0.3"
+        "saskoh/conaktiv-emogrifyplugin" : "^0.3.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
